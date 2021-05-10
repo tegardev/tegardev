@@ -29,8 +29,8 @@ Saat ini saya terbuka untuk peluang apa pun terutama di bidang IT sebagai App da
 
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=zen-deve&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-deve&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=tegardev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegardev&layout=compact" height=180 />
 </p>
 
 ## Trophies
