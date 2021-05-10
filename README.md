@@ -11,7 +11,7 @@ Saat ini saya terbuka untuk peluang apa pun terutama di bidang IT sebagai App da
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://gpvc.arturio.dev/zen-deve" />
+    <img src="https://gpvc.arturio.dev/tegardev" />
 </p>
 
 ### Stats:
